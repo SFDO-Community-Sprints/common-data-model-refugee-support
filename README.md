@@ -1,41 +1,17 @@
-# Common-Data-Model-Templates
-Template org for the Common Data Model template
+# Common-Data-Model-Refugee-Support
+Common data model for organisations providing support to Asylum Seekers/Refugees
 
 
 ## Use Case
-Explain the Data Model use case in as much detail as possible
+This data model aims to standardise the data capture around support to asylum seekers/refugees. It should enable better collaboration between organisations, as well as reduce admininstration, improve data accuracy, and provide automated support journeys to ayslum seekers/refugees
 ## Entity Relationship Diagram
 Post a Image of ERD here
 ## Data Dictionary 
 Post an Image of Data Dictionary here
 ## Installation
-Install in sandboxes:
-Install in Production Instace: 
-## Customization
-Any additional steps required
+Documentation only (apsiration to convert to a package at a later date) 
 ## Contributing to the Data Model
 
-### Through CummulusCI
-#### Pre Requisites 
-1. Github Account
-2. Contributor Access to the Data Model Repository
-3. Git cli intalled on local machine
-4. [Set up CumulusCI](https://cumulusci.readthedocs.io/en/latest/get-started.html)
-
-#### Set up
-Connect CumulusCI to the GitHub account used to access this repository.
-`cci service connect github`
-
-Connect CCI to DevHub
-`cci org connect {org-alias}` Authenticate to the devhub org for the project 
-`cci service connect devhub --project` Tell CCI the alias of the devhub org to use for this project (org that was connected in previous step)
-
-Verify DevHub and GitHub service
-`cci service list`
-
-### Through Metecho
-
---------------- List Metecho process here---------------------
 
 ### Process and Governance 
 
