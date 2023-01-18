@@ -1,0 +1,239 @@
+Project Topic: “Build common data models that are commonly implemented in NGO/EDU to avoid duplicate work and promote collaboration and best practices
+Group working topic: “Refugee Support Starter Pack”
+Team members:
+
+1. Ozge Oz 
+2. John Buen 
+3. Chris Lyon 
+4. Simona Blaj  
+5. Marilo Meta 
+6. Juliet John
+
+
+End Users:
+Refugee
+Charity Case Worker
+Charity Data Analyst
+Donor
+Government Agencies
+
+
+
+Notes from Ozge’s Experience:
+Education x(kids/?)
+Employment - work permit variations 
+Childrens needs (same categories as above - taking into consideration children are constantly being required to move location/school 
+Level of help required
+Accommodation - with ability to track accommodation history when people are moved often x
+Languages 
+All of this changes over time
+Touch point recording - calls, meetings, issues 
+Integration with official process (with flexibility to change parameters)
+Ability to track resources available and match up with refugee records
+Nationality - which will dictate what support the Government provides automatically
+Will need some sort of object to track government rules for each nationality
+Common database - how do we give access to multiple different NGOs to the same data set? - Can Migrant Help own the central database?
+Consent from Refugee to share data across organisations
+Refugee status will take at least 2 years (lasts for 5 years - after which you can apply for unlimited leave to remain, after one year of that you can apply for citizenship)
+
+ 
+The plan
+
+Day 1:
+
+Set out refugee timeline and user journey - Ozge
+Agree on General data structure - objects and relationships - John
+Research 1 or 2 current government stances on nationalities - Turkish and Ukrainian? - Chris
+Create Developer Org - Marilo
+
+Day 2:
+Build data schema with fields and relationships
+Guidance email journey content created
+Guidance email journey flows created
+Digital Experience site for individual migrant data access (Stretch Goal)
+
+
+DAY 1 WORK:
+Main websites related to asylum seekers and refugees
+Claim asylum in the UK: https://www.gov.uk/claim-asylum/print 
+Asylum support (asylum instructions) https://www.gov.uk/government/collections/asylum-support-asylum-instructions
+Refugee Resettlement: Policy Guidance https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1011824/Resettlement_Policy_Guidance_2021.pdf
+General Guideline for Asylum Seekers in English https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/962463/English_only_-_web_accessible.pdf
+For Ukrainian Asylum Seekers https://www.gov.uk/government/collections/homes-for-ukraine-guidance-for-guests 
+For Afghan Asylum Seekers https://www.gov.uk/guidance/afghan-citizens-resettlement-scheme 
+For Albanian Asylum Seekers https://www.gov.uk/government/publications/albania-country-policy-and-information-notes 
+For Syrian Asylum Seekers https://www.gov.uk/government/publications/syria-country-policy-and-information-notes 
+
+First 6 Months Timeline
+Claiming asylum at the airport or at the office in the city. 
+The first screening interview
+The first: Initial Accommodation: hotel, hostel with or without kitchen
+The second: Dispersal Accommodation: a flat ,shared flat,  a house, shared house, shared room
+GP registration - HC2: Full free health document
+School registration
+Legal Aid (Immigration Solicitors)  by Home Office
+ Migrant Help advice, charity advice, private 
+Interview for financial assistance (Aspen Card): If the person is eligible and stays at an accommodation without kitchen 8 pounds for each week per person, an accommodation with kitchen 45 pounds for each week per person. If the person prefers to stay in their own accommodation, support is not provided unless under extra circumstances. The amount is for all needs. 
+Raise an issue on Migrant Help website: https://ellis.custhelp.com/app/ask
+
+After 6 months (if still asylum seeker)
+Registration college for ESOL lessons. If ESOL level is L1 and more, the person can register for other college courses if they are eligible. 
+
+After 1 year (if still asylum seeker)
+Main applicants for claiming asylum can apply for a work permit via legal solicitor or by themselves. (Short Occupational List Work Visa)
+If the main asylum seeker works, they have to inform the Home Office and Migrant Help. The weekly support with Aspen card is stopped and tax payment is started. 
+When the person has work permit, the person can apply for national insurance number, 
+
+At any time, there can be substantive interview. According to guideline in 6 months but in practice it takes much more time, in very rare cases it takes less time. 
+
+
+When an asylum seeker gets refugee status:
+At any time, there can be substantive interview. 
+They receive a letter to leave the accommodation in 28 days. Within this time if the person applies to council with the letter, the council helps for accommodation at homeless status. If the person has lived at least 6 months in the same council. 
+They can apply for benefits at job centers at this time.
+If a person can rent a house, they can apply for universal credit.
+To rent a house: a guarantor, deposit, income or a housekeeper who accepts to be paid with benefits and universal credit. 
+Part time or full time work depending on the situation
+They can need help for renting a house, finding a job, job skills, house furnitures
+
+
+
+GOVERNMENT GUIDANCE:
+Current Nationality-specific schemes:
+Afghanistan - https://www.gov.uk/guidance/afghan-citizens-resettlement-scheme
+Ukraine - https://www.gov.uk/government/collections/homes-for-ukraine-guidance-for-guests
+Hong Kong - https://www.gov.uk/guidance/hong-kong-uk-welcome-programme-guidance-for-local-authorities
+
+Non country Specific:
+Claiming Asylum - https://www.gov.uk/claim-asylum
+Granted/Refused Asylum - https://www.gov.uk/asylum-support/what-youll-get
+Granted Refugee Status - https://www.citizensadvice.org.uk/immigration/after-you-get-refugee-status/
+Granted Indefinite Leave to Remain - https://www.gov.uk/settlement-refugee-or-humanitarian-protection
+
+Main differences between national specific schemes and general asylum seeking:
+Automatic Asylum Yes/No
+Automatic Refugee Status Yes/No
+Automatic Indefinite Leave to Remain
+Specific Scheme help documentation link - General
+Links for each category (Education, Health, Accommodation etc)
+
+
+Chapters 
+(GOVERNMENT GUIDE ONCE YOU HAVE BEEN RECOGNIZED AS REFUGEE)
+
+Once you have been recognised as a refugee
+Immigration status and if your family can join you in the UK;
+Access to benefits and Essential Services upon receiving the Biometric Residence Permit (BRP) which allows to remain in UK and work;
+Opening a Bank Account;
+Learning to speak English;
+
+
+Housing and Services
+Types of houses;
+Tenancy agreement;
+Access utilities and services
+
+
+Employment and Benefits
+Work and Tax;
+Financial support, loans;
+Employments rights;
+Education
+Health
+
+
+Education
+Joining the education system;
+Type of Schools
+
+Legal Rights and Responsibilities
+Rights and freedoms;
+Protecting and caring for your children;
+Gender and sex in law;
+Domestic abuse
+
+Healthcare
+Accessing health services;
+National Health Service;
+General Practitioner services;
+Mental Health Services
+Financial support for health costs
+
+
+
+
+
+
+Salesforce.org Commons Community Sprint Longon, UK - 1st day, 17.01.2023
+
+Project Report Back
+
+What project are you working on?
+Common Data Model - Refugee Support Starter Pack
+
+What have you accomplished today?
+Created a refugee timeline, agreed on a general data structure, researched current generic and scheme specific government policy, set up NPSP trial org with team admin access. 
+
+What are your next steps?
+Create detailed ERD (entity relation diagram), begin building trial NPSP org objects and fields
+
+Any other details to share?(optional)
+Is there a better way of setting up the test environment? The trial we have will only last a month, but using a development org instead will only allow 2 admins.
+
+
+
+
+
+
+Salesforce.org Commons Community Sprint Longon, UK - 2nd day, 18.01.2023
+
+Project Report Back
+
+DAY 2 WORK:
+
+On initial registration
+Do you have accommodation provided by home office? Provide guidance links
+Do you have a work permit? (home office won’t support accommodation if yes)
+Does your accommodation have a kitchen?
+Where is your accommodation?
+Are you registered at a GP? Guidance document - HC2 Certificate
+Do you have children with you?
+If yes - are they registered with a school?
+If child is 14-16, they will struggle to register at school - needs immediate support
+Do you have access to food at the moment?  Guidance on food banks
+Do you have access to warm clothing? Coat/waterproof - guidance on accessing clothing charities
+Do you have access to legal aid?
+Do you speak English? to what level?
+Is there a female who is pregnant? Guidance on regular check ups, how to get baby clothing etc
+If you get granted refugee status, inform us immediately when you do!
+Guidance on creating migrant portal account.   Raise an issue on Migrant Help website: https://ellis.custhelp.com/app/ask or use my portal : https://ellis.custhelp.com/app/utils/login_form 
+Mental health support
+Create initial guidance email based on initial responses - translated into multiple languages
+
+After 6 months
+Ask same questions as initial registration - has anything changed?
+Would you like help learning english? - online or in-person courses (in-person courses expenses are not paid - will they need help paying them?) - provide details of local in-person courses to them
+Have you been granted refugee status? - remember to inform us immediately when you do
+Information on college courses - and a reminder to let us know if you are level 1 or higher
+Mental health support
+On Refugee status granted:
+Benefits guidance
+Banks accounts guidance
+Accommodation guidance
+National Insurance number guidance
+Work permit guidance
+Employment guidance
+Travel documents application guidance
+Family reunion guidance
+
+After 1 year IF NOT REFUGEE STATUS
+National Insurance number guidance
+Work permit guidance
+
+
+PLANNED OUTCOMES:
+Schema built in Salesforce Org, including fields
+Guidance email journey content created
+Guidance email journey flows created
+Digital Experience site for individual migrant data access (Stretch Goal)
+
