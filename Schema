@@ -1,21 +1,21 @@
-Standard Object: Contact
-  Record Type: Migrant, Support Contact
-  Custom fields:
+##### Standard Object: Contact
+###### Record Type: Migrant, Support Contact
+###### Custom fields:
   
-Atandard Object: Affiliation
-  Custom fields:
+##### Standard Object: Affiliation
+###### Custom fields:
     Family Role (Picklist)
       Father
       Mother
       Child
       Other
     
-Standard Object: Account
-  Record Type: Household, Organization
-  Custom fields: 
+##### Standard Object: Account
+###### Record Type: Household, Organization
+###### Custom fields: 
 
-Standard Object: Address
-  Custom fields:
+##### Standard Object: Address
+###### Custom fields:
     Accommodation Type (Picklist)
       Hotel/Hostel
       Private Accommodation
@@ -25,9 +25,9 @@ Standard Object: Address
       Temporary
       Permanent
 
-Custom Object: Organization support
-  Record Types: Charity Organizations, Employment and Benefits, Healthcare, Housing and Services, Legal Assistance, Local Authority, School Placement
-  Custom fields:
+##### Custom Object: Organization support
+###### Record Types: Charity Organizations, Employment and Benefits, Healthcare, Housing and Services, Legal Assistance, Local Authority, School Placement
+###### Custom fields:
     Account (Master-detail(Account))
     Contact (Master-detail(Contact))
     End Date (Date)
@@ -38,9 +38,8 @@ Custom Object: Organization support
       Not graduated
     Start Date (Date)
     
-
-Custom Object: Visa Application
-  Custom fields:
+##### Custom Object: Visa Application
+###### Custom fields:
     Applicant (Master-detail(Contact))
     Reference Visa (Text)
     
