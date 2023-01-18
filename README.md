@@ -6,8 +6,6 @@ Common data model for organisations providing support to Asylum Seekers/Refugees
 This data model aims to standardise the data capture around support to asylum seekers/refugees. It should enable better collaboration between organisations, as well as reduce admininstration, improve data accuracy, and provide automated support journeys to ayslum seekers/refugees
 ## Entity Relationship Diagram
 ![Refugee Support ERD](Refugee%20Support%20Starter%20Pack%20ERD.png)
-## Data Dictionary 
-Post an Image of Data Dictionary here
 ## Installation
 Documentation only (apsiration to convert to a package at a later date) 
 ## Contributing to the Data Model
