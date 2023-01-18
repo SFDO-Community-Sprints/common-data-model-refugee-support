@@ -1,6 +1,14 @@
 Standard Object: Contact
   Record Type: Migrant, Support Contact
   Custom fields:
+  
+Atandard Object: Affiliation
+  Custom fields:
+    Family Role (Picklist)
+      Father
+      Mother
+      Child
+      Other
     
 Standard Object: Account
   Record Type: Household, Organization
