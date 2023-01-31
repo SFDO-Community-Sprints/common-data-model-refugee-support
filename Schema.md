@@ -1,8 +1,9 @@
 ##### Standard Object: Contact
 ###### Record Type: Migrant, Support Contact
 ###### Custom fields:
+To be definned
   
-##### Standard Object: Affiliation
+##### Standard Object: Relatioship
 ###### Custom fields:
     Family Role (Picklist)
       Father
