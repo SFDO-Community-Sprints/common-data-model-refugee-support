@@ -7,7 +7,7 @@ This data model aims to standardise the data capture around support to asylum se
 ## Entity Relationship Diagram
 ![Refugee Support ERD](Refugee%20Support%20Starter%20Pack%20ERD.png)
 ## Installation
-Documentation only (apsiration to convert to a package at a later date) 
+Documentation only (aspiration to convert to a package at a later date) 
 ## Contributing to the Data Model
 
 
