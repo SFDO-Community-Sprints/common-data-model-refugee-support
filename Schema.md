@@ -2,6 +2,8 @@
 ###### Record Type: Migrant, Support Contact
 ###### Custom fields:
 To be definned
+   education (Pickist)
+   type of education to be defined
   
 ##### Standard Object: Relatioship
 ###### Custom fields:
