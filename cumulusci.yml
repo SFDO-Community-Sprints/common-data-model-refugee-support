@@ -1,8 +1,8 @@
-minimum_cumulusci_version: '3.67.1'
+minimum_cumulusci_version: '3.71.0'
 project:
-    name: Common-Data-Model-Templates
+    name: common-data-model-refugee-support
     package:
-        name: Common-Data-Model-Templates
+        name: common-data-model-refugee-support
         api_version: '55.0'
     git:
         default_branch: 'main'
@@ -11,14 +11,14 @@ project:
 tasks:
     robot:
         options:
-            suites: robot/Common-Data-Model-Templates/tests
+            suites: robot/common-data-model-refugee-support/tests
             options:
-                outputdir: robot/Common-Data-Model-Templates/results
+                outputdir: robot/common-data-model-refugee-support/results
 
     robot_testdoc:
         options:
-            path: robot/Common-Data-Model-Templates/tests
-            output: robot/Common-Data-Model-Templates/doc/Common-Data-Model-Templates_tests.html
+            path: robot/common-data-model-refugee-support/tests
+            output: robot/common-data-model-refugee-support/doc/common-data-model-refugee-support_tests.html
 
     run_tests:
         options:
