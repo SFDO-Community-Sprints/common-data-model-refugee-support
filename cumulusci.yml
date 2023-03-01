@@ -10,7 +10,7 @@ project:
 
 tasks:
     robot:
-        options:
+        options: 
             suites: robot/common-data-model-refugee-support/tests
             options:
                 outputdir: robot/common-data-model-refugee-support/results
